@@ -1,2 +1,3 @@
 # android-history
-initial project to practice my html and css skills.
+
+initial project to practice my html, css, also starting my git/github skills.
